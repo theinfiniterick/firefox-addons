@@ -1,0 +1,33 @@
+Standard
+-----------------------
+Background      #282A36
+Foreground      #F8F8F2
+Selection       #44475A
+Comment         #6272A4
+Red             #FF5555
+Orange          #FFB86C
+Yellow          #F1FA8C
+Green           #50FA7B
+Purple          #BD93F9
+Cyan            #8BE9FD
+Pink            #FF79C6
+
+ANSI
+-----------------------
+Black           #21222C
+Red             #FF5555
+Green           #50FA7B
+Yellow          #F1FA8C
+Blue            #BD93F9
+Magenta         #FF79C6
+Cyan            #8BE9FD
+White           #F8F8F2
+
+Bright Black    #6272A4
+Bright Red      #FF6E6E
+Bright Green    #69FF94
+Bright Yellow   #FFFFA5
+Bright Blue     #D6ACFF
+Bright Magenta  #FF92DF
+Bright Cyan     #A4FFFF
+Bright White    #FFFFFF
