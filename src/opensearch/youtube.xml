@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>YouTube</ShortName>
+  <Description>Search YouTube</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <LongName>YouTube Search</LongName>
+  <Image height="64" width="64">data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDY0IDY0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8ZyB0cmFuc2Zvcm09Im1hdHJpeCgxLjU5NiAwIDAgMS41OTYgLTYuMzg0IC02LjMwNDIpIj4KPHBhdGggZD0ibTQzLjIgMzMuOWMtMC40IDIuMS0yLjEgMy43LTQuMiA0LTMuMyAwLjUtOC44IDEuMS0xNSAxLjEtNi4xIDAtMTEuNi0wLjYtMTUtMS4xLTIuMS0wLjMtMy44LTEuOS00LjItNC0wLjQtMi4zLTAuOC01LjctMC44LTkuOXMwLjQtNy42IDAuOC05LjljMC40LTIuMSAyLjEtMy43IDQuMi00IDMuMy0wLjUgOC44LTEuMSAxNS0xLjFzMTEuNiAwLjYgMTUgMS4xYzIuMSAwLjMgMy44IDEuOSA0LjIgNCAwLjQgMi4zIDAuOSA1LjcgMC45IDkuOS0wLjEgNC4yLTAuNSA3LjYtMC45IDkuOXoiIGZpbGw9IiNmZjNkMDAiLz4KPHBhdGggZD0ibTIwIDMxdi0xNGwxMiA3eiIgZmlsbD0iI2ZmZiIvPgo8L2c+Cjwvc3ZnPgo=</Image>
+  <Url type="text/html" method="get" template="https://www.youtube.com/results?search_query={searchTerms}"/>
+</OpenSearchDescription>
